@@ -1,0 +1,6 @@
+E:\visualstudio2012\Projects\ConsoleMail\ConsoleMail\bin\Debug\ConsoleMail.exe.config
+E:\visualstudio2012\Projects\ConsoleMail\ConsoleMail\bin\Debug\ConsoleMail.exe
+E:\visualstudio2012\Projects\ConsoleMail\ConsoleMail\bin\Debug\ConsoleMail.pdb
+E:\visualstudio2012\Projects\ConsoleMail\ConsoleMail\obj\Debug\ConsoleMail.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\Projects\ConsoleMail\ConsoleMail\obj\Debug\ConsoleMail.exe
+E:\visualstudio2012\Projects\ConsoleMail\ConsoleMail\obj\Debug\ConsoleMail.pdb
